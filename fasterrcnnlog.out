@@ -1,0 +1,65 @@
+
+[TRAIN] Eğitim başlıyor...
+
+[EPOCH 1/50] Train Loss: 0.2115 | Val Loss: 0.1664 | Val mAP@0.5: 0.6885
+ --> Yeni en iyi model kaydedildi! (mAP: 0.6885)
+[EPOCH 2/50] Train Loss: 0.1807 | Val Loss: 0.1821 | Val mAP@0.5: 0.6449
+[EPOCH 3/50] Train Loss: 0.1693 | Val Loss: 0.1634 | Val mAP@0.5: 0.7200
+ --> Yeni en iyi model kaydedildi! (mAP: 0.7200)
+[EPOCH 4/50] Train Loss: 0.1563 | Val Loss: 0.1688 | Val mAP@0.5: 0.7422
+ --> Yeni en iyi model kaydedildi! (mAP: 0.7422)
+[EPOCH 5/50] Train Loss: 0.1582 | Val Loss: 0.1809 | Val mAP@0.5: 0.6767
+[EPOCH 6/50] Train Loss: 0.1554 | Val Loss: 0.1695 | Val mAP@0.5: 0.6900
+[EPOCH 7/50] Train Loss: 0.1498 | Val Loss: 0.1593 | Val mAP@0.5: 0.7419
+[EPOCH 8/50] Train Loss: 0.1478 | Val Loss: 0.1775 | Val mAP@0.5: 0.7028
+[EPOCH 9/50] Train Loss: 0.1429 | Val Loss: 0.1489 | Val mAP@0.5: 0.7629
+ --> Yeni en iyi model kaydedildi! (mAP: 0.7629)
+[EPOCH 10/50] Train Loss: 0.1449 | Val Loss: 0.1637 | Val mAP@0.5: 0.7343
+[EPOCH 11/50] Train Loss: 0.1444 | Val Loss: 0.1637 | Val mAP@0.5: 0.7369
+[EPOCH 12/50] Train Loss: 0.1399 | Val Loss: 0.1634 | Val mAP@0.5: 0.7420
+[EPOCH 13/50] Train Loss: 0.1404 | Val Loss: 0.1640 | Val mAP@0.5: 0.7524
+[EPOCH 14/50] Train Loss: 0.1321 | Val Loss: 0.1501 | Val mAP@0.5: 0.7331
+[EPOCH 15/50] Train Loss: 0.1306 | Val Loss: 0.1547 | Val mAP@0.5: 0.7637
+ --> Yeni en iyi model kaydedildi! (mAP: 0.7637)
+[EPOCH 16/50] Train Loss: 0.1283 | Val Loss: 0.1583 | Val mAP@0.5: 0.7012
+[EPOCH 17/50] Train Loss: 0.1276 | Val Loss: 0.1655 | Val mAP@0.5: 0.7573
+[EPOCH 18/50] Train Loss: 0.1256 | Val Loss: 0.1698 | Val mAP@0.5: 0.6836
+[EPOCH 19/50] Train Loss: 0.1286 | Val Loss: 0.1590 | Val mAP@0.5: 0.7504
+[EPOCH 20/50] Train Loss: 0.1242 | Val Loss: 0.1559 | Val mAP@0.5: 0.7477
+[EPOCH 21/50] Train Loss: 0.1261 | Val Loss: 0.1704 | Val mAP@0.5: 0.7416
+[EPOCH 22/50] Train Loss: 0.1198 | Val Loss: 0.1618 | Val mAP@0.5: 0.7492
+[EPOCH 23/50] Train Loss: 0.1218 | Val Loss: 0.1741 | Val mAP@0.5: 0.7140
+[EPOCH 24/50] Train Loss: 0.1196 | Val Loss: 0.1656 | Val mAP@0.5: 0.7288
+[EPOCH 25/50] Train Loss: 0.1182 | Val Loss: 0.1535 | Val mAP@0.5: 0.7581
+[EPOCH 26/50] Train Loss: 0.1149 | Val Loss: 0.1714 | Val mAP@0.5: 0.7093
+[EPOCH 27/50] Train Loss: 0.1082 | Val Loss: 0.1676 | Val mAP@0.5: 0.7022
+[EPOCH 28/50] Train Loss: 0.1075 | Val Loss: 0.1657 | Val mAP@0.5: 0.7075
+[EPOCH 29/50] Train Loss: 0.1122 | Val Loss: 0.1601 | Val mAP@0.5: 0.7465
+[EPOCH 30/50] Train Loss: 0.1051 | Val Loss: 0.1744 | Val mAP@0.5: 0.7142
+[EPOCH 31/50] Train Loss: 0.1030 | Val Loss: 0.1612 | Val mAP@0.5: 0.7517
+[EPOCH 32/50] Train Loss: 0.0986 | Val Loss: 0.1575 | Val mAP@0.5: 0.7445
+[EPOCH 33/50] Train Loss: 0.0953 | Val Loss: 0.1649 | Val mAP@0.5: 0.7203
+[EPOCH 34/50] Train Loss: 0.1017 | Val Loss: 0.1609 | Val mAP@0.5: 0.7398
+[EPOCH 35/50] Train Loss: 0.1000 | Val Loss: 0.1622 | Val mAP@0.5: 0.6902
+[EPOCH 36/50] Train Loss: 0.0970 | Val Loss: 0.1674 | Val mAP@0.5: 0.6956
+[EPOCH 37/50] Train Loss: 0.0941 | Val Loss: 0.1703 | Val mAP@0.5: 0.7221
+[EPOCH 38/50] Train Loss: 0.0997 | Val Loss: 0.1743 | Val mAP@0.5: 0.7090
+[EPOCH 39/50] Train Loss: 0.0915 | Val Loss: 0.1498 | Val mAP@0.5: 0.7496
+[EPOCH 40/50] Train Loss: 0.0855 | Val Loss: 0.1611 | Val mAP@0.5: 0.7462
+[EPOCH 41/50] Train Loss: 0.0943 | Val Loss: 0.1709 | Val mAP@0.5: 0.7337
+[EPOCH 42/50] Train Loss: 0.0914 | Val Loss: 0.1840 | Val mAP@0.5: 0.6964
+[EPOCH 43/50] Train Loss: 0.0931 | Val Loss: 0.1816 | Val mAP@0.5: 0.6947
+[EPOCH 44/50] Train Loss: 0.0870 | Val Loss: 0.1850 | Val mAP@0.5: 0.7361
+[EPOCH 45/50] Train Loss: 0.0930 | Val Loss: 0.1854 | Val mAP@0.5: 0.7387
+[EPOCH 46/50] Train Loss: 0.0909 | Val Loss: 0.1750 | Val mAP@0.5: 0.7180
+[EPOCH 47/50] Train Loss: 0.0837 | Val Loss: 0.1849 | Val mAP@0.5: 0.6957
+[EPOCH 48/50] Train Loss: 0.0819 | Val Loss: 0.1719 | Val mAP@0.5: 0.7409
+[EPOCH 49/50] Train Loss: 0.0822 | Val Loss: 0.1710 | Val mAP@0.5: 0.7267
+[EPOCH 50/50] Train Loss: 0.0763 | Val Loss: 0.2018 | Val mAP@0.5: 0.6695
+
+[TRAIN] Eğitim tamamlandı. Grafikler kaydedildi.
+
+[EVAL] Son Değerlendirme başlıyor...
+
+
+[PIPELINE TAMAMLANDI]
